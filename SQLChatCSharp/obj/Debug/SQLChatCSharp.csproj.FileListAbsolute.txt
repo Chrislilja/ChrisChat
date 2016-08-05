@@ -1,0 +1,7 @@
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\bin\Debug\SQLChatCSharp.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\bin\Debug\SQLChatCSharp.exe
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\bin\Debug\SQLChatCSharp.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\bin\Debug\MySql.Data.dll
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\obj\Debug\SQLChatCSharp.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\obj\Debug\SQLChatCSharp.exe
+c:\users\thomas\documents\visual studio 2015\Projects\SQLChatCSharp\SQLChatCSharp\obj\Debug\SQLChatCSharp.pdb
